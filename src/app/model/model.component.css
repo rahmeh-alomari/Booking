@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+:root{
+    --bs-font-sans-serif: 'Karla', sans-serif;
+}
+
+.form-control:focus{
+  box-shadow : none;
+  border-color: #000;
+}
+.modal-content {
+   
+    width: 200% !important;
+    
+    margin-left: -190px !important;
+}
